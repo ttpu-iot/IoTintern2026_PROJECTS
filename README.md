@@ -23,7 +23,7 @@ It is a summary of projects and their corresponding repositories, which are rela
 * repo: [ESP32 Door Status Notifier with MQTT and Telegram](https://github.com/ttpu-iot/esp32cam-iot-motion-detection)
   * @authors: 
     * [Yakhyo Ibrokhimzoda](https://github.com/ibrohimzodayahyo-dev)
-    * [Bekzod Tokhtamurodov](https://github.com/)
+    * [Bekzod Tokhtamurodov](https://github.com/bekatop1gg)
 
 ----------------------------------------------
 
