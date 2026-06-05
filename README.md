@@ -36,3 +36,12 @@ It is a summary of projects and their corresponding repositories, which are rela
 
 
 ----------------------------------------------
+
+**4) smart pill box project :**
+* video: [youtube link](https://youtu.be/9RbFt0cUHgw)
+* repo: [smart pill box project](https://github.com/ttpu-iot/esp32-mqtt-basics-AyatBadwan/blob/main/src/Final_Project.cpp)
+  * @authors: 
+    * [Ayat Badwan](https://github.com/AyatBadwan)
+
+
+----------------------------------------------
