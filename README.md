@@ -37,11 +37,24 @@ It is a summary of projects and their corresponding repositories, which are rela
 
 ----------------------------------------------
 
-**4) smart pill box project :**
+**4) Smart pill box project :**
 * video: [youtube link](https://youtu.be/9RbFt0cUHgw)
 * repo: [smart pill box project](https://github.com/ttpu-iot/esp32-mqtt-basics-AyatBadwan/blob/main/src/Final_Project.cpp)
   * @authors: 
     * [Ayat Badwan](https://github.com/AyatBadwan)
 
+----------------------------------------------
+
+**5) Smart Cargo Bunker Project:**
+* **Video:** [Watch the Demo](https://youtu.be/gv_efo5UGes)
+* **Repositories:** 
+  * [Device Firmware](https://github.com/ttpu-iot/DevicePartFinalProject)
+  * [API Backend](https://github.com/ttpu-iot/Smart-Container-Monitoring)
+  * [Full-Stack Dashboard](https://github.com/ttpu-iot/SmartContainerMonitor)
+* **Authors:** 
+  * [Murodov Narimonjon](https://github.com/narimonjonmurodov) (Device)
+  * [Latipov Abrorkhuja](https://github.com/abror-latipov) (API)
+  * [Sarvar Tohirov](https://github.com/Sarvar612) (Full-Stack)
+* **Description:** An IoT-driven logistics system developed at TTPU for real-time cargo monitoring, environmental sensing, and active climate control.
 
 ----------------------------------------------
