@@ -7,7 +7,7 @@ It is a summary of projects and their corresponding repositories, which are rela
 ========================================================
 ## List of Final Capstone Projects
 
-**Youtube Playlist:** [Demo Videos of Projects - IoT Internship 2026]()
+**Youtube Playlist:** [Demo Videos of Projects - IoT Internship 2026](https://www.youtube.com/@iotturinuz/videos)
 
 ----------------------------------------------
 **1) ESP32 Door Status Notifier with MQTT and Telegram:**
