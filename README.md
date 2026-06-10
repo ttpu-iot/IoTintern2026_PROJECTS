@@ -58,3 +58,13 @@ It is a summary of projects and their corresponding repositories, which are rela
 * **Description:** An IoT-driven logistics system developed at TTPU for real-time cargo monitoring, environmental sensing, and active climate control.
 
 ----------------------------------------------
+
+
+**6) Smart Box Project:**
+* video: [youtube link](https://youtube.com/shorts/XflH4rMtQPw?feature=share)
+* repo: [Smart Box Project](https://github.com/ttpu-iot/iot_akrom-main)
+  * @authors: 
+    * [Zokirjonov Sobirjon](https://github.com/Sobir7)
+    * [Usmonjonov Akrombek](https://github.com/Akrombek-Usmonjonov)
+
+----------------------------------------------
