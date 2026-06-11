@@ -68,3 +68,11 @@ It is a summary of projects and their corresponding repositories, which are rela
     * [Usmonjonov Akrombek](https://github.com/Akrombek-Usmonjonov)
 
 ----------------------------------------------
+
+**4) ESP32 ARGB Fan control project work :**
+* video: [youtube link](https://youtu.be/R491lJQ2Mjw)
+* repo: [ESP32 ARGB Fan control project work](https://github.com/ttpu-iot/nEw_pROJECT_eSP32_rGB_fAN_cONTROLLER)
+  * @authors: 
+    * [Bektashov Kamronbek](https://github.com/nC753)
+
+----------------------------------------------
