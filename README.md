@@ -12,7 +12,7 @@ It is a summary of projects and their corresponding repositories, which are rela
 
 ----------------------------------------------
 
-**2) Cloud-Based ESP32-CAM Motion Detection & Monitoring System | IoT Project :**
+**1) Cloud-Based ESP32-CAM Motion Detection & Monitoring System | IoT Project :**
 * video: [youtube link](https://youtube.com/shorts/hv3u38reHpU?feature=share)
 * repo: [ESP32 Door Status Notifier with MQTT and Telegram](https://github.com/ttpu-iot/esp32cam-iot-motion-detection)
   * @authors: 
@@ -22,7 +22,7 @@ It is a summary of projects and their corresponding repositories, which are rela
 ----------------------------------------------
 
 
-**3) ESP32 Smart Multisensor Dashboard :**
+**1) ESP32 Smart Multisensor Dashboard :**
 * video: [youtube link](https://youtu.be/DLXZn6Wndu0)
 * repo: [ESP32 Smart Multisensor Dashboard ](https://github.com/ttpu-iot/IoT-projects/tree/main/ESP32%20Smart%20Multisensor%20Dashboard)
   * @authors: 
@@ -31,7 +31,7 @@ It is a summary of projects and their corresponding repositories, which are rela
 
 ----------------------------------------------
 
-**4) Smart pill box project :**
+**1) Smart pill box project :**
 * video: [youtube link](https://youtu.be/9RbFt0cUHgw)
 * repo: [smart pill box project](https://github.com/ttpu-iot/esp32-mqtt-basics-AyatBadwan/blob/main/src/Final_Project.cpp)
   * @authors: 
@@ -39,7 +39,7 @@ It is a summary of projects and their corresponding repositories, which are rela
 
 ----------------------------------------------
 
-**5) Smart Cargo Bunker Project:**
+**1) Smart Cargo Bunker Project:**
 * **Video:** [Watch the Demo](https://youtu.be/gv_efo5UGes)
 * **Repositories:** 
   * [Device Firmware](https://github.com/ttpu-iot/DevicePartFinalProject)
