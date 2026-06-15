@@ -9,12 +9,6 @@ It is a summary of projects and their corresponding repositories, which are rela
 
 **Youtube Playlist:** [Demo Videos of Projects - IoT Internship 2026](https://www.youtube.com/@iotturinuz/videos)
 
-----------------------------------------------
-**1) ESP32 Door Status Notifier with MQTT and Telegram:**
-* video: [youtube link](https://youtu.be/JovxX4T7gno?feature=shared)
-* repo1: [ESP32 Door Status Notifier with MQTT and Telegram](https://github.com/ttpu-iot/IoTintern2025_esp32_door_sensor_telegrambot)
-
-  * _@authors: I) [EldorKhaitov](https://github.com/eldor9312);_
 
 ----------------------------------------------
 
